@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/AyaELMAFHOUM/micro.git'
+    repoURL: 'https://github.com/AyaELMAFHOUM/deployment-microservices.git'
     targetRevision: main
     path: .
   destination:
